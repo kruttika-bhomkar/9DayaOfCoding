@@ -1,2 +1,2 @@
-# 9DayaOfCoding
+# 9DaysOfCoding
 coding competition
