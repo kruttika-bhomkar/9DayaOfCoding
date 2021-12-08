@@ -19,3 +19,7 @@ def Count(str):
 	print('Lower case letters:', lower)
 	print('Number:', number)
 	print('Special characters:', special)
+
+# Driver Code
+str = "#GeeKs01fOr@gEEks07"
+Count(str)
